@@ -27,5 +27,5 @@
     @apply text-gray-500;
 }
 .breadcrumb_last{
-    @apply text-justify
+    @apply hidden md:block lg:block;
 }

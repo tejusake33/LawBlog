@@ -33687,7 +33687,19 @@ video {
 }
 
 .breadcrumb_last{
-  text-align: justify
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .breadcrumb_last {
+    display: block;
+  }
+}
+
+@media (min-width: 1024px) {
+  .breadcrumb_last {
+    display: block;
+  }
 }
 
 @media (min-width: 640px) {

@@ -33686,6 +33686,10 @@ video {
   color: rgba(107, 114, 128, var(--tw-text-opacity));
 }
 
+.breadcrumb_last{
+  text-align: justify
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;

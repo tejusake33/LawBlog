@@ -33672,8 +33672,6 @@ video {
 .blogli{
   margin-bottom: 1.25rem;
   line-height: 2rem;
-  --tw-text-opacity: 1;
-  color: rgba(0, 0, 0, var(--tw-text-opacity));
 }
 
 .blogspan{

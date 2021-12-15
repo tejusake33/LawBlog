@@ -33564,7 +33564,7 @@ video {
   content: none;
 }
 
-.heading{
+.blogheading{
   position: relative;
   margin-left: 0px;
   margin-right: 0px;
@@ -33580,20 +33580,20 @@ video {
 }
 
 @media (min-width: 640px) {
-  .heading {
+  .blogheading {
     font-size: 2.25rem;
     line-height: 2.5rem;
   }
 }
 
 @media (min-width: 1024px) {
-  .heading {
+  .blogheading {
     margin-left: 1.25rem;
     margin-right: 1.25rem;
   }
 }
 
-.head{
+.bloghead{
   position: relative;
   margin-left: 0px;
   margin-right: 0px;
@@ -33605,13 +33605,13 @@ video {
 }
 
 @media (min-width: 1024px) {
-  .head {
+  .bloghead {
     margin-left: 1.25rem;
     margin-right: 1.25rem;
   }
 }
 
-.para{
+.blogpara{
   position: relative;
   margin-top: 1.25rem;
   margin-left: 0px;
@@ -33624,12 +33624,12 @@ video {
 }
 
 @media (min-width: 1024px) {
-  .para {
+  .blogpara {
     margin-left: 1.25rem;
   }
 }
 
-.item{
+.blogul{
   position: relative;
   margin-left: 0.75rem;
   margin-right: 0.75rem;
@@ -33645,13 +33645,13 @@ video {
 }
 
 @media (min-width: 1024px) {
-  .item {
+  .blogul {
     margin-left: 2rem;
     margin-right: 2rem;
   }
 }
 
-.parag{
+.blogparag{
   position: relative;
   margin-left: 0px;
   margin-right: 0px;
@@ -33663,10 +33663,23 @@ video {
 }
 
 @media (min-width: 1024px) {
-  .parag {
+  .blogparag {
     margin-left: 1.25rem;
     margin-right: 1.25rem;
   }
+}
+
+.blogli{
+  margin-bottom: 1.25rem;
+  line-height: 2rem;
+  --tw-text-opacity: 1;
+  color: rgba(0, 0, 0, var(--tw-text-opacity));
+}
+
+.blogspan{
+  font-weight: 600;
+  --tw-text-opacity: 1;
+  color: rgba(0, 0, 0, var(--tw-text-opacity));
 }
 
 @media (min-width: 640px) {

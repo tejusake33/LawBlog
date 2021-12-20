@@ -29,3 +29,6 @@
 .breadcrumb_last{
     @apply hidden md:block lg:block;
 }
+.card{
+    @apply bg-white rounded overflow-hidden shadow-md relative;
+}

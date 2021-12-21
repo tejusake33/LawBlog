@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        cyan: "#6EC1E4"
+        whoa: "#6EC1E4"
       }
     },
     screens: {

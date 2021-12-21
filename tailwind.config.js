@@ -5,6 +5,11 @@ module.exports = {
   presets: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
+    extend: {
+      colors: {
+        cyan: "#6EC1E4"
+      }
+    },
     screens: {
       sm: '640px',
       md: '768px',

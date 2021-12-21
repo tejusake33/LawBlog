@@ -9,7 +9,7 @@ module.exports = {
       colors: {
         cyan: {
           100: '#cffafe',
-          200: '#a5f3fc'
+          200: '#a5f3fc',
         },
       }
     },

@@ -33818,7 +33818,7 @@ video {
   list-style-type: decimal;
   padding-left: 1.75rem;
   padding-right: 1.75rem;
-  text-align: justify;
+  text-align: left;
   font-size: 1.25rem;
   line-height: 1.75rem;
   --tw-text-opacity: 1;
@@ -33829,6 +33829,7 @@ video {
   .blogul {
     margin-left: 2rem;
     margin-right: 2rem;
+    text-align: justify;
   }
 }
 

@@ -30,7 +30,7 @@
     @apply hidden md:block lg:block;
 }
 .card{
-    @apply bg-white rounded overflow-hidden shadow-md relative;
+    @apply bg-white rounded-md overflow-hidden shadow-md relative;
 }
 .blockpara{
     @apply block m-3 text-gray-500 text-justify;

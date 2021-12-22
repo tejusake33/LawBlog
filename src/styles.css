@@ -38,3 +38,6 @@
 .blockhead{
     @apply font-bold m-4 text-justify;
 }
+.blogfooter{
+    @apply text-base mt-5 lg:mt-12 border-t border-gray-200 pt-8 text-gray-400 text-center;
+}

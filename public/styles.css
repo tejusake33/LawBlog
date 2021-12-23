@@ -33796,7 +33796,7 @@ video {
   position: relative;
   margin-top: 1.25rem;
   margin-left: 0px;
-  text-align: justify;
+  text-align: left;
   font-size: 1.25rem;
   line-height: 1.75rem;
   line-height: 2rem;
@@ -33807,6 +33807,7 @@ video {
 @media (min-width: 1024px) {
   .blogpara {
     margin-left: 1.25rem;
+    text-align: justify;
   }
 }
 
@@ -33905,25 +33906,6 @@ video {
   margin: 1rem;
   text-align: justify;
   font-weight: 700;
-}
-
-.blogfooter{
-  margin-top: 1.25rem;
-  border-top-width: 1px;
-  --tw-border-opacity: 1;
-  border-color: rgba(229, 231, 235, var(--tw-border-opacity));
-  padding-top: 2rem;
-  text-align: center;
-  font-size: 1rem;
-  line-height: 1.5rem;
-  --tw-text-opacity: 1;
-  color: rgba(156, 163, 175, var(--tw-text-opacity));
-}
-
-@media (min-width: 1024px) {
-  .blogfooter {
-    margin-top: 3rem;
-  }
 }
 
 @media (min-width: 640px) {

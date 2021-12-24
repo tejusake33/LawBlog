@@ -9,6 +9,7 @@ module.exports = {
       colors: {
         cyan: {
           300: '#67e8f9',
+          50: '#ecfeff',
         },
       }
     },

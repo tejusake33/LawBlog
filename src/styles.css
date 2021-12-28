@@ -17,9 +17,4 @@ li{
 .card{
     @apply bg-white rounded-lg overflow-hidden shadow-md relative;
 }
-.blockpara{
-    @apply block m-3 text-gray-500 text-justify;
-}
-.blockhead{
-    @apply font-bold m-4 text-justify;
-}
+

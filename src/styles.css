@@ -14,9 +14,6 @@ li{
 .blogspan{
     @apply font-semibold text-black;
 }
-.blogtext{
-    @apply text-gray-500;
-}
 .card{
     @apply bg-white rounded-lg overflow-hidden shadow-md relative;
 }

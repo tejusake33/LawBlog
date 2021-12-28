@@ -11,9 +11,6 @@ ul{
 li{
     @apply  leading-8 mb-5;
 }
-.blogspan{
-    @apply font-semibold text-black;
-}
 .card{
     @apply bg-white rounded-lg overflow-hidden shadow-md relative;
 }

@@ -8,13 +8,13 @@ p{
 .bloghead{
     @apply font-semibold text-left mt-5 text-4xl mx-0 lg:mx-5 relative;
 }
-.blogul{
+ul{
     @apply list-decimal text-left lg:text-justify px-7 relative mt-5 text-xl mx-3 lg:mx-8 text-gray-500;
 }
 .blogparag{
     @apply font-semibold text-left mt-5 text-3xl mx-0 lg:mx-5 relative;
 }
-.blogli{
+li{
     @apply  leading-8 mb-5;
 }
 .blogspan{

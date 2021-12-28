@@ -6,7 +6,7 @@ p{
     @apply relative mt-5 text-xl text-left lg:text-justify text-gray-500 leading-8;
 }
 ul{
-    @apply list-decimal text-left lg:text-justify px-7 relative mt-5 text-xl mx-3 lg:mx-8 text-gray-500;
+    @apply list-decimal text-left lg:text-justify px-7 relative mt-5 text-xl mx-2 lg:mx-5 text-gray-500;
 }
 li{
     @apply  leading-8 mb-5;

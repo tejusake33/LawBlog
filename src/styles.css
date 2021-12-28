@@ -29,7 +29,7 @@
 .blog-post img{
     @apply mt-7 mb-7 w-full rounded-lg content-center;
 }
-.blog-post a{
+.blog-post p span a{
     @apply text-red-600 underline text-base;
 }
 .card{

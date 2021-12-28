@@ -2,11 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+p{
+    @apply relative mt-5 text-xl text-left lg:text-justify text-gray-500 leading-8;
+}
 .bloghead{
     @apply font-semibold text-left mt-5 text-4xl mx-0 lg:mx-5 relative;
-}
-.blogpara{
-    @apply relative mt-5 ml-0 lg:ml-5 text-xl text-left lg:text-justify text-gray-500 leading-8;
 }
 .blogul{
     @apply list-decimal text-left lg:text-justify px-7 relative mt-5 text-xl mx-3 lg:mx-8 text-gray-500;

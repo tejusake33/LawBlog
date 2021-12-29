@@ -29,8 +29,8 @@
 .blog-post img{
     @apply mt-7 mb-7 w-full rounded-lg content-center;
 }
-.blog-post p span a{
-    @apply text-red-600 underline text-base;
+.blog-post a{
+    @apply text-red-600 underline text-xl;
 }
 .card{
     @apply bg-white rounded-lg overflow-hidden shadow-md relative;

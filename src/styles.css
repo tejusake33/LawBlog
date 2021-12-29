@@ -38,3 +38,6 @@
 h4{
     @apply font-bold text-xl pt-7 text-center border-t border-gray-200 text-cyan-300 mt-12;
 }
+h5{
+    @apply font-bold m-4 text-left;
+}

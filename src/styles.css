@@ -35,4 +35,6 @@
 .card{
     @apply bg-white rounded-lg overflow-hidden shadow-md relative;
 }
-
+h4{
+    @apply font-bold text-xl pt-7 text-center border-t border-gray-200 text-cyan-300 mt-12;
+}

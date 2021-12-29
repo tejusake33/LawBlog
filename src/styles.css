@@ -41,3 +41,6 @@ h4{
 h5{
     @apply font-bold m-4 text-left;
 }
+p{
+    @apply block m-4 text-left text-gray-500;
+}

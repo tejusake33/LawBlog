@@ -42,5 +42,5 @@ h5{
     @apply font-bold m-4 text-left;
 }
 p{
-    @apply block m-4 text-left text-gray-500;
+    @apply block m-3 text-left text-gray-500;
 }

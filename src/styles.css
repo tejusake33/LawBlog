@@ -44,6 +44,4 @@ h5{
 p{
     @apply block m-4 text-left text-gray-500;
 }
-h6{
-    @apply font-semibold text-gray-400 hover:text-gray-500 text-center xl:text-left text-2xl;
-}
+

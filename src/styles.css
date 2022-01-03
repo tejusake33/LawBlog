@@ -23,8 +23,8 @@
 .blog-post ul li span span{
     @apply font-semibold text-black;
 }
-.blog-post p span{
-    @apply relative w-40 h-6 text-gray-500 text-xs uppercase font-semibold mt-9;
+.blog-post nav{
+    @apply w-40 h-6 text-gray-500 text-xs uppercase font-semibold mt-9;
 }
 .blog-post img{
     @apply mt-7 mb-7 w-full rounded-lg content-center;
@@ -43,4 +43,7 @@ h5{
 }
 p{
     @apply block m-4 text-left text-gray-500;
+}
+h6{
+    @apply font-semibold text-gray-400 hover:text-gray-500 text-center xl:text-left text-2xl;
 }

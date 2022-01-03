@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+body{
+    @apply overflow-x-hidden;
+}
 .blog-post p{
     @apply relative mt-5 text-xl mx-0 text-left lg:text-justify text-gray-500 leading-8;
 }

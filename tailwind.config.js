@@ -11,6 +11,19 @@ module.exports = {
           300: '#67e8f9',
           50: '#ecfeff',
         },
+        slate: {
+          dark: '#64748b',
+          100: '#526d7a',
+        },
+        stone: {
+          light: '#d6d3d1',
+        },
+        yellow: {
+          dark: '#ca8a04',
+        },
+        lime: {
+          700: '#4d7c0f',
+        },
       }
     },
     screens: {
